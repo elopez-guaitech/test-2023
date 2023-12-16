@@ -1,0 +1,16 @@
+{
+    "development": {
+        "username": "msch13",
+        "dialect": "postgres",
+        "host": "localhost",
+        "password": "user13",
+        "database": "test"
+    },
+    "production": {
+        "username": "msch13",
+        "dialect": "postgres",
+        "host": "localhost",
+        "password": "user13",
+        "database": "test"
+    }
+}
